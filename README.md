@@ -11,6 +11,7 @@ Xcode keymap for DevEco Studio.
 | 跳转文件头 | command+↑   |
 | 跳转文件尾 | command+↓   |
 | 删除行     | command+del |
+| 代码格式化     | control+i |
 
 
 
